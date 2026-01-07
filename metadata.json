@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of LifeOS - Daily Tracker",
+  "description": "A comprehensive life operating system to track discipline, health, and learning with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
